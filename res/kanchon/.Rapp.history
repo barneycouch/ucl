@@ -1,0 +1,251 @@
+1/x
+logx
+log x
+lnx
+ln(x)
+print (x)
+y <- x^2
+print (y)
+mean (y)
+var(y)
+print(y)
+ls (y)
+print(y)
+graph?
+x vs y
+graph
+ls?
+?
+po
+?
+o
+plot(x, y)
+abline(lm(x,y))
+abline(lm(x, y))
+abline(x, y)
+attach(mtcars)
+title("This Won't Work")
+quartz()
+cars <-(1, 3, 6, 4, 9)
+cars <- c(1, 3, 6, 4, 9)
+plot(cars)
+cars <- c(1,3,6,4,9)
+plot(cars, type="o", col="blue")
+title(main="Autos")
+trucks <- c(2,5,4,5,12)
+print(trucks)
+lines(trucks, type="o", pch=22, lty=2, col="red")
+load(".RData")
+wik <- c(A unit hydrograph is used to more easily represent the effect of rainfall in a particular basin. It is a hypothetical unit response of the watershed to a unit input of rainfall. This allows easy calculation of the response to any arbitrary input (rainfall), by simply performing a convolution between the rain input and the unit hydrograph output.#
+An instantaneous unit hydrograph is a further refinement of the concept; for an IUH, the input rainfall is assumed to all take place at a discrete point in time (obviously, this isn't the case for actual rainstorms). Making this assumption can greatly simplify the analysis involved in constructing a unit hydrograph, and it is )
+print (wik)
+wik <- c(lns)
+wik <-c(1,2,5,6,4,,6,7,8,9)
+wik <-c(1,2,3,4,5,6,7,8)
+median (wik)
+mode (wik)
+mod (wi)
+print (wik)
+edit (wik)
+print (wik)
+edit (wik)
+mode (wik)
+print (wik)
+pwd
+ls
+x c(1,2,3)
+x <- c(1,2,3)
+print (x)
+mod (x)
+mod (1)
+modulus (1)
+y=mod(x)
+y=x^3
+print (y)
+ls
+mkdir
+help(solve)
+objects(1,2,3,6)
+x <- c(10.4, 5.6, 3.1, 6.4, 21.7)
+print (x)
+assign("x", c(10.4, 3.5))
+print (x)
+print(x)
+1/x
+print(x)
+y=1/x
+print(y)
+log(y)
+sqrt(y)
+v<- 2y+18.4
+v <- 2y+18.4
+v <- 2*y+13.4
+print(y)
+y
+mean(x)
+mean(y)
+sqrt(-17+0i)
+sqrt(-17)
+arse <- c(1.2.6.7.3.4.0)
+arse <- c(1,2,3,8,9,7,4,5)
+sort(arse)
+mean(arse)
+print(arse)
+var(arse)
+temp <- x > 13
+print(temp)
+print(x)
+dorchart(arse)
+dotchart(arse)
+plot(x,arse)
+plot(x, arse)
+plot(xarse)
+pairs(x)
+pairs(X)
+qqplot(x,arse)
+dotchart(x,arse)
+windows()
+pdf()
+dotchart(x,arse)
+graphics.off()
+graphics.on()
+pdf()
+x <- c(1,2,3)
+print(x)
+ls
+cd
+r
+unix
+.globalworkspace
+r <- (6,7,8,9)
+r <- (6, 7, 8, 9)
+r
+r <- c(6, 7)
+r
+plot r
+plot
+y <- c(8, 3, 9)
+plot (x, y)
+plot (r, y)
+graph
+e <- c(3, 7)
+plot (r, e)
+ls
+2 + 3
+exp(1)
+sum(1:5)
+prod(1:69)
+ls
+pwd
+library(affy)
+list.files()
+cd Desktop
+cd "Dekstop"
+cd "desktop"
+getwd()
+wd
+wd()
+x
+install.packages("RCurl", repos = "http://www.omegahat.org/R")
+install.packages("XML", repos = "http://www.omegahat.org/R")
+1:50
+c <- 1:50
+c
+ggplot
+??ggplot
+#comment
+comment
+3 * log(6)
+history()
+exp(1)
+cos(pi)
+pi
+cos(pi)
+pi**2
+3**2
+3 == 4
+3 ==3
+3==3
+b <- c(1,2,3,4,5,6,7,8,9,10,11,12)
+c
+b
+b[7]
+b[1:6]
+b[b%%3=0]
+b[b%%3==0]
+b %% 3 == 0
+b[b %% 3 == 0]
+one <- 1
+two <- 2
+one
+two
+one = two
+one
+two
+one <- 1
+two <- 2
+one == two
+3 -> three
+three
+four
+four <- three + 1
+four
+a <- array(c(1,2,3,4,5,6,7,8,9,10,11,12),dim=c(3,4))
+a
+a[2,3]
+a[2,2]
+c <- c(1,2,3,4,5,6,7,8,9,10,11,12)
+2^100
+2^1024
+INf
+Inf
+x <- Inf
+x
+x^2
+x^^2
+x/x
+x <-c(1,2,3,4,5)
+plot(x)
+load("wordcloud")
+library("wordcloud")
+library("ggplot2")
+setwd("/Users/Barney/Dropbox/other/code/ucl/testbed")
+ls()
+wdls()
+agl<-read.table("agl_ama_flor_out_NCP_out",header=TRUE,sep='\t')
+head(agl)
+names(agl)
+setwd("/Users/Barney/Dropbox/other/code/ucl/")
+list.files()
+list.dirs
+list.dirs()
+setwd("/Users/Barney/Dropbox/other/code/ucl/res/kanchon/")
+list.files()
+slide<-read.table("agl_ama_flor_out_BD_out_slide",header=TRUE,sep='\t')
+head(slide)
+names(slide)
+plot(slide$ABBA,slide$BABA)
+hist(slide$other)
+attach(slide)
+plot(Pos,other)
+library("ggplot2")
+ggplot(slid,aes(Pos,other))
+ggplot(slide,aes(Pos,other))
+ggplot(slide,aes(Pos,other))+geom_point()
+ggplot(slide,aes(Pos,other))+geom_liens()
+ggplot(slide,aes(Pos,other))+geom_lines()
+ggplot(slide,aes(Pos,other))+geom_line()
+ggplot(slide,aes(Pos,other))+geom_line()+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line(aes(col=..scale..))+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line(aes(fill=..count..))+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line(aes(fill=..Pos..))+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line(aes(fill=Pos))+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line(aes(col=..count..))+xlab("position")
+ggplot(slide,aes(Pos,other))+geom_line()+xlab("position")
+ggplot(slide,aes(no_data))+geom_histogram()
+ggplot(slide,aes(no_data))+geom_histogram(fill==..count..,binwidth=100)
+ggplot(slide,aes(no_data))+geom_histogram(binwidth=100,aes(fill=..count..))
+ggplot(slide,aes(no_data))+geom_histogram(binwidth=10,aes(fill=..count..))
+ggplot(slide,aes(no_data))+geom_histogram(binwidth=50,aes(fill=..count..))
+ggplot(slide,aes(no_data))+geom_histogram(binwidth=50,aes(fill=..count..))+y_scale_sqrt()
+ggplot(slide,aes(no_data))+geom_histogram(binwidth=50,aes(fill=..count..))+scale_y_sqrt()

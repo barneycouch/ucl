@@ -1,0 +1,167 @@
+demo()
+x (2,3,4)
+ls
+x c(2.4, 5.6)
+x <- c(10.4, 5.6)
+1/x
+logx
+log x
+lnx
+ln(x)
+print (x)
+y <- x^2
+print (y)
+mean (y)
+var(y)
+print(y)
+ls (y)
+print(y)
+graph?
+x vs y
+graph
+ls?
+?
+po
+?
+o
+plot(x, y)
+abline(lm(x,y))
+abline(lm(x, y))
+abline(x, y)
+attach(mtcars)
+title("This Won't Work")
+quartz()
+cars <-(1, 3, 6, 4, 9)
+cars <- c(1, 3, 6, 4, 9)
+plot(cars)
+cars <- c(1,3,6,4,9)
+plot(cars, type="o", col="blue")
+title(main="Autos")
+trucks <- c(2,5,4,5,12)
+print(trucks)
+lines(trucks, type="o", pch=22, lty=2, col="red")
+load(".RData")
+wik <- c(A unit hydrograph is used to more easily represent the effect of rainfall in a particular basin. It is a hypothetical unit response of the watershed to a unit input of rainfall. This allows easy calculation of the response to any arbitrary input (rainfall), by simply performing a convolution between the rain input and the unit hydrograph output.#
+An instantaneous unit hydrograph is a further refinement of the concept; for an IUH, the input rainfall is assumed to all take place at a discrete point in time (obviously, this isn't the case for actual rainstorms). Making this assumption can greatly simplify the analysis involved in constructing a unit hydrograph, and it is )
+print (wik)
+wik <- c(lns)
+wik <-c(1,2,5,6,4,,6,7,8,9)
+wik <-c(1,2,3,4,5,6,7,8)
+median (wik)
+mode (wik)
+mod (wi)
+print (wik)
+edit (wik)
+print (wik)
+edit (wik)
+mode (wik)
+print (wik)
+pwd
+ls
+x c(1,2,3)
+x <- c(1,2,3)
+print (x)
+mod (x)
+mod (1)
+modulus (1)
+y=mod(x)
+y=x^3
+print (y)
+ls
+mkdir
+help(solve)
+objects(1,2,3,6)
+x <- c(10.4, 5.6, 3.1, 6.4, 21.7)
+print (x)
+assign("x", c(10.4, 3.5))
+print (x)
+print(x)
+1/x
+print(x)
+y=1/x
+print(y)
+log(y)
+sqrt(y)
+v<- 2y+18.4
+v <- 2y+18.4
+v <- 2*y+13.4
+print(y)
+y
+mean(x)
+mean(y)
+sqrt(-17+0i)
+sqrt(-17)
+arse <- c(1.2.6.7.3.4.0)
+arse <- c(1,2,3,8,9,7,4,5)
+sort(arse)
+mean(arse)
+print(arse)
+var(arse)
+temp <- x > 13
+print(temp)
+print(x)
+dorchart(arse)
+dotchart(arse)
+plot(x,arse)
+plot(x, arse)
+plot(xarse)
+pairs(x)
+pairs(X)
+qqplot(x,arse)
+dotchart(x,arse)
+windows()
+pdf()
+dotchart(x,arse)
+graphics.off()
+graphics.on()
+pdf()
+x <- c(1,2,3)
+print(x)
+ls
+cd
+r
+unix
+.globalworkspace
+r <- (6,7,8,9)
+r <- (6, 7, 8, 9)
+r
+r <- c(6, 7)
+r
+plot r
+plot
+y <- c(8, 3, 9)
+plot (x, y)
+plot (r, y)
+graph
+e <- c(3, 7)
+plot (r, e)
+ls
+2 + 3
+exp(1)
+sum(1:5)
+prod(1:69)
+ls
+pwd
+library(affy)
+list.files()
+cd Desktop
+cd "Dekstop"
+cd "desktop"
+getwd()
+wd
+wd()
+source("/Users/Barney/Dropbox/other/py/ucl/wk1/res/bc/outscr12.txt")
+source("/Users/Barney/Dropbox/other/py/ucl/wk1/res/bc/outscr12.txt", header=TRUE)
+getwd()
+d <- read.table("outscr12.txt", sep = "\t", header=TRUE)
+d
+names(d)
+head(d)
+attach(d)
+d
+head(d)
+hist(POS)
+hist(ABBA)
+hist(other)
+hist(ABBA)
+barplot(ABBA, BABA, ABBB, BABB)

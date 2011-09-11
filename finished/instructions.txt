@@ -1,0 +1,7 @@
+Run the scaffsplitter program first to separate a lot of files into individual scaff-id files.
+-You will need to run it in the form "python scaffsplitter.py shortncp" where the string is without quotes, and shortncp is replaced with any file you need to split
+
+Then run the scr14.py script to produce a text file for each scaff record
+-In the form "python scr14.py scaff1 10 5 2 1" where scaff1 is replaced with the file to analyse, and the other commands are <source file>  <window length>  <window increment> <decreasing window increment> <minimum window size>
+
+You can automate this to run for multiple files with a bit of bash looping.
